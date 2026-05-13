@@ -321,7 +321,7 @@ Drop your question on the relevant YouTube video. I read and reply to comments, 
 | Platform | Link |
 |----------|------|
 | 📺 YouTube | [www.youtube.com/@BItoAI-1808](https://www.youtube.com/@BItoAI-1808) |
-| 📸 Instagram | [@bitoai](https://instagram.com/bitoai) |
+| 📸 Instagram | [@bitoai](https://instagram.com/bitoai_abhi) |
 | 💼 LinkedIn | [linkedin.com/in/abhilashreddy1808](https://linkedin.com/in/abhilashreddy1808) |
 | ⭐ GitHub | [github.com/bitoai-Abhi](https://github.com/bitoai-Abhi) |
 
